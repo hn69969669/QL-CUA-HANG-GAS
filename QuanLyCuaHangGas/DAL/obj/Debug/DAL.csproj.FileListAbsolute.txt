@@ -1,0 +1,9 @@
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\bin\Debug\DAL.dll
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\bin\Debug\DAL.pdb
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\bin\Debug\DTO.dll
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\bin\Debug\DTO.pdb
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\obj\Debug\DAL.dll
+C:\Users\hn699\Documents\Visual Studio 2022\QuanLyCuaHangGas\DAL\obj\Debug\DAL.pdb
